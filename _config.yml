@@ -1,0 +1,38 @@
+# site settings
+title: Алкотур
+subtitle: 
+email: 
+description: выпить в баре
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author:
+street_address: улица ад
+city: город блин
+state: пиздец
+zip_code: 69
+country: сука блять
+phone: 69 69 69 69
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://instagram.com
+linkedin_url: 
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com
+youtube_url: https://youtube.com
+vk_url:  https://vk.com
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
