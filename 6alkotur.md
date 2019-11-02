@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Кто Алкотур?
-description: 'это алкоголь!'
+description: 'Лучшие пьющие алкоголь в мире.)'
 image: assets/images/cocktail01.jpg
 nav-menu: true
 show_tile: true

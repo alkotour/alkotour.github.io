@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Стиль!
-description: 'пить в стиле'
+description: 'Пить в стиле!'
 image: assets/images/style.jpg
 nav-menu: true
 show_tile: true

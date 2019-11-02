@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: reciepe
 title: Рецепты!
-description: 'DIY напитки'
+description: 'Сделай сам напитки!'
 image: assets/images/reciepe.jpg
 nav-menu: true
 show_tile: true

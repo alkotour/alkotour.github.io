@@ -1,7 +1,7 @@
 ---
 layout: allposts
 title: Блог!
-landing-title: 'все пости'
+landing-title: 'Все пости!'
 description: пост
 image: assets/images/blog.jpg
 author: null
