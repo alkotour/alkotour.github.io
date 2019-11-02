@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Стиль!
 description: 'пить в стиле'
 image: assets/images/style.jpg

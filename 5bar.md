@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Бар!
 description: 'где пить'
 image: assets/images/bar01.jpg
