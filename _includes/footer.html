@@ -97,6 +97,16 @@
 				{% if site.linkedin_url %}
 				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
 				{% endif %}
+                                {% if site.youtube_url %}
+				<li><a href="{{ site.youtube_url }}" class="icon alt fa-youtube" target="_blank"><span class="label">YouTube</span></a></li>
+				{% endif %}
+                                {% if site.youtube_channel_url %}
+				<li><a href="{{ site.youtube_channel_url }}" class="icon alt fa-youtube-square" target="_blank"><span class="label">YouTube Channel</span></a></li>
+				{% endif %}
+				{% if site.vkontakte_url %}
+				<li><a href="{{ site.vkontakte_url }}" class="icon alt fa-vk" target="_blank"><span class="label">VKontakte</span></a></li>
+				{% endif %}
+
 			</ul>
 			<ul class="copyright">
 				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>

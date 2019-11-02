@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Home
+title: Главная
 landing-title: 'Привет, мы Алкотур!'
 description: null
-image: none
+image: null
 author: null
 show_tile: false
 ---
