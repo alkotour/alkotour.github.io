@@ -6,7 +6,7 @@ var f = document.createElement("iframe");
 f.src = 'https://forms.zohopublic.eu/zohoform/form/ContactForm/formperma/_CF3Bq4V5j8DXmP9q61gbeJXacGNJQo_NFluA7VhN7I?zf_rszfm=1';
 f.frameborder = 0;                                           
 f.style.height="100%";
-f.style.width="50%";
+f.style.width="80%";
 f.style.transition="all 0.5s ease";// No I18N
 var d = document.getElementById("zf_div__CF3Bq4V5j8DXmP9q61gbeJXacGNJQo_NFluA7VhN7I");
 d.appendChild(f);
