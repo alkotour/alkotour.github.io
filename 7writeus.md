@@ -1,0 +1,36 @@
+---
+layout: page
+title: Свяжитесь с нами
+description: 'Мы не кусаемся .... не сильно.'
+image: assets/images/beer01.jpg
+nav-menu: true
+show_tile: true
+---
+
+<center>
+<div id="zf_div__CF3Bq4V5j8DXmP9q61gbeJXacGNJQo_NFluA7VhN7I"></div>
+<script type="text/javascript">(function() {
+try{
+var f = document.createElement("iframe");   
+f.src = 'https://forms.zohopublic.eu/zohoform/form/ContactForm/formperma/_CF3Bq4V5j8DXmP9q61gbeJXacGNJQo_NFluA7VhN7I?zf_rszfm=1';
+f.frameborder = 0;                                           
+f.style.height="100%";
+f.style.width="50%";
+f.style.transition="all 0.5s ease";// No I18N
+var d = document.getElementById("zf_div__CF3Bq4V5j8DXmP9q61gbeJXacGNJQo_NFluA7VhN7I");
+d.appendChild(f);
+window.addEventListener('message', function (){
+var zf_ifrm_data = event.data.split("|");
+var zf_perma = zf_ifrm_data[0];
+var zf_ifrm_ht_nw = ( parseInt(zf_ifrm_data[1], 10) + 15 ) + "px";
+var iframe = document.getElementById("zf_div__CF3Bq4V5j8DXmP9q61gbeJXacGNJQo_NFluA7VhN7I").getElementsByTagName("iframe")[0];
+if ( (iframe.src).indexOf('formperma') > 0 && (iframe.src).indexOf(zf_perma) > 0 ) {
+var prevIframeHeight = iframe.style.height;
+if ( prevIframeHeight != zf_ifrm_ht_nw ) {
+iframe.style.height = zf_ifrm_ht_nw;
+}   
+}
+}, false);
+}catch(e){}
+})();</script>
+</center>
