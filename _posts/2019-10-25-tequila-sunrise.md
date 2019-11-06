@@ -10,7 +10,7 @@ comments: false
 ---
 
 
-<center><img style="width:30%;height:auto" src="{{ site.url }}/assets/images/cocktails/tequila_sunrise.jpg"></center>
+<center><img style="width:50%;height:auto" src="{{ site.url }}/assets/images/cocktails/tequila_sunrise.jpg"></center>
 
 <center>сам, для крутых и великих людей в алкотур</center>
 

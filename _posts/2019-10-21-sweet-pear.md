@@ -9,7 +9,7 @@ tag:
 comments: false
 ---
 
-<center><img style="width:30%;height:auto" src="{{ site.url }}/assets/images/cocktails/sweet_pear.jpg"></center>
+<center><img style="width:50%;height:auto" src="{{ site.url }}/assets/images/cocktails/sweet_pear.jpg"></center>
 
 <center><a href="https://johnny-miller.com"> Johnny Miller </a> @ <a href="https://www.marthastewartweddings.com"> Martha Stewart Weddings</a></center>
 

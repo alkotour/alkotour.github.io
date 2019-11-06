@@ -9,7 +9,7 @@ tag:
 comments: false
 ---
 
-<center><img style="width:30%;height:auto" src="{{ site.url }}/assets/images/cocktails/manhattan.jpg"></center>
+<center><img style="width:50%;height:auto" src="{{ site.url }}/assets/images/cocktails/manhattan.jpg"></center>
 
 <center><a href="https://www.flickr.com/people/32426344@N00"> Graeme Maclean </a> Glasgow, UK</center>
 
