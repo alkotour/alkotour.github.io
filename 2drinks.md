@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Напитки!
 description: Что пить?
 image: assets/images/manhattan_kachel.jpg

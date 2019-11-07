@@ -2,7 +2,7 @@
 layout: post
 title: "Сладкая груша - Sweet Pear"
 description: "эм..бабушка?"
-image: none
+image: 
 date:   2019-10-21
 tag:
 - рецепт

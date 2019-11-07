@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_blank
 title: Свяжитесь с нами
 description: 'Мы не кусаемся .... не сильно.'
 image: assets/images/beer01.jpg

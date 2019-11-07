@@ -2,7 +2,7 @@
 layout: post
 title: "Текила санрайз - Tequila Sunrise"
 description: "онлайн редактировать"
-image: assets/images/pic04.jpg
+image: 
 date:   2019-10-25
 tag:
 - рецепт

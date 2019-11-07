@@ -2,7 +2,7 @@
 layout: post
 title: "Mитрополитан - Metropolitan"
 description: "да..выпить"
-image: assets/images/pic04.jpg
+image: 
 date:   2019-10-21
 tag:
 - рецепт
