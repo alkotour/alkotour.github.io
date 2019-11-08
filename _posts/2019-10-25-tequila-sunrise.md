@@ -3,14 +3,14 @@ layout: post
 title: "Текила санрайз - Tequila Sunrise"
 description: "онлайн редактировать"
 image: 
-date:   2019-10-25
+date: 2019-10-25
 tag:
 - рецепт
 comments: false
 ---
 
 
-<center><img style="width:50%;height:auto" src="{{ site.url }}/assets/images/cocktails/tequila_sunrise.jpg"></center>
+<center><img style="width:40vw;max-width:40%;height:auto" src="{{ site.url }}/assets/images/cocktails/tequila_sunrise.jpg"></center>
 
 <center>сам, для крутых и великих людей в алкотур</center>
 

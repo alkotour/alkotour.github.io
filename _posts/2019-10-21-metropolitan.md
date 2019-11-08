@@ -3,13 +3,13 @@ layout: post
 title: "Mитрополитан - Metropolitan"
 description: "да..выпить"
 image: 
-date:   2019-10-21
+date: 2019-10-21
 tag:
 - рецепт
 comments: false
 ---
 
-<center><img style="width:50%;height:auto" src="{{ site.url }}/assets/images/cocktails/manhattan.jpg"></center>
+<center><img style="width:40vw;max-width:40%;height:auto" src="{{ site.url }}/assets/images/cocktails/manhattan.jpg"></center>
 
 <center><a href="https://www.flickr.com/people/32426344@N00"> Graeme Maclean </a> Glasgow, UK</center>
 
