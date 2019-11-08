@@ -1,13 +1,4 @@
----
-layout: page
-title: Бар!
-description: 'Где пить?'
-image: assets/images/bar01.jpg
-nav-menu: true
-show_tile: true
----
-
-<!-- Main -->
+I""<!-- Main -->
 <div id="main" class="alt">
 
 <!-- One -->
@@ -34,3 +25,5 @@ show_tile: true
 </div>
 </div>
 </div>
+</section></div>
+:ET

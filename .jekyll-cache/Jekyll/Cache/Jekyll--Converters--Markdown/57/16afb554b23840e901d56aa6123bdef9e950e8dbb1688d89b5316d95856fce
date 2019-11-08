@@ -1,13 +1,4 @@
----
-layout: page
-title: Напитки!
-description: Что пить?
-image: assets/images/manhattan_kachel.jpg
-nav-menu: true
-show_tile: true
----
-
-<!-- Main -->
+I"�<!-- Main -->
 <div id="main" class="alt">
 
 <!-- One -->
@@ -34,3 +25,5 @@ show_tile: true
 </div>
 </div>
 </div>
+</section></div>
+:ET
