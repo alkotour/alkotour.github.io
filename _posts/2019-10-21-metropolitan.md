@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mитрополитан - Metropolitan"
+title: "🥃 Mитрополитан/<br> Metropolitan"
 description: "да..выпить"
 image: 
 date: 2019-10-21

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Сладкая груша - Sweet Pear"
+title: "🍹 Сладкая груша/<br> Sweet Pear"
 description: "эм..бабушка?"
 image: 
 date: 2019-10-21
